@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "App used to track empoyees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethan25Irvine/Employee-Tracker.git"
+  },
+  "author": "Ethan Irvine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ethan25Irvine/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Ethan25Irvine/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  }
+}
